@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div>
         <Navbar/>
-        About 
+        About content
     </div>
   )
 }
